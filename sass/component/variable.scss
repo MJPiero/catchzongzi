@@ -1,0 +1,16 @@
+@import "normalize";
+@import "compass/support";
+@import "compass/css3";
+
+//浏览器兼容
+//==========================================
+$legacy-support-for-ie6: true;
+$legacy-support-for-ie7: true;
+$legacy-support-for-ie8: true;
+$legacy-support-for-mozilla: true;
+$supported-browsers: browsers();
+$debug-browser-support: true;   //开发模式
+
+// 动画
+$DefaultTransition: all 0.2s linear !default;
+

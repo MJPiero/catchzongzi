@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>端午节接粽子小游戏</title>
+<meta name="viewport" content="initial-scale=1, maximum-scale=1">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black">
+
+<link rel="stylesheet" href="./build/index.css">
+</head>
+<body>
+<div class="body">
+    <div id="success_send">
+        <div class="input-container">
+            <label class="label-name"><img src="./images/label-name.png" alt=""></label>
+            <input type="text" name="name" id="user_name">
+        </div>
+        <div class="input-container">
+            <label class="label-name"><img src="./images/label-phone.png" alt=""></label>
+            <input type="text" name="phone" id="user_phone">
+        </div>
+        <div class="input-container">
+            <label class="label-name"><img src="./images/label-company.png" alt=""></label>
+            <input type="text" name="company" id="user_company">
+        </div>
+        <div class="input-container">
+            <div class="button-container" id="restart"><img src="./images/restart-button.png" alt=""></div>
+            <div class="button-container" id="send"><img src="./images/send-button.png" alt=""></div>
+        </div>
+        <div class="input-container">
+            <div class="button-container" id="share"><img src="./images/return-button.png" alt=""></div>
+        </div>
+    </div>
+
+    <canvas id="gameCanvas"></canvas>
+</div>
+<script src="./build/base.min.js"></script>
+<script src="./build/index.min.js"></script>
+</body>
+</html>

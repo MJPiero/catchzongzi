@@ -1,0 +1,4 @@
+//pxtorem
+@function PageSize($size){
+  @return $size * 320px / 750px / 20px * 1rem;
+}
