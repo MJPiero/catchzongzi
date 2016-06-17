@@ -6,9 +6,28 @@
 
 CatchZongzi is a simple game on web that was made by createjs.
 
+##[Demo](http://v.mob.com/wechat/catchzongzi/index.php)
+
+demo需要微信授权，请用微信扫描打开。
+
+<img src="http://pan.baidu.com/share/qrcode?w=150&h=150&url=http://v.mob.com/wechat/catchzongzi/index.php">
+
 ##Authors
 
 **majing(Piero)**
 
 - [Blog － http://blog.pierrothall.com/](http://blog.pierrothall.com/)
 - [Email － merlu.majing@gmail.com](http://merlu.majing@gmail.com)
+
+##Issues
+
+[Report a Problem](https://github.com/MJPiero/catchzongzi/issues)
+
+##Copyright and license
+
+Copyright © 2016 MJPiero. All Rights Reserved
+
+Licensed under the MIT-LICENSE;
+you may not use this work except in compliance with the License.
+You may obtain a copy of the License in the LICENSE file, or at:
+	[http://opensource.org/licenses/MIT](http://opensource.org/licenses/MIT)
