@@ -23,11 +23,3 @@ demo需要微信授权，请用微信扫描打开。
 
 [Report a Problem](https://github.com/MJPiero/catchzongzi/issues)
 
-##Copyright and license
-
-Copyright © 2016 MJPiero. All Rights Reserved
-
-Licensed under the MIT-LICENSE;
-you may not use this work except in compliance with the License.
-You may obtain a copy of the License in the LICENSE file, or at:
-	[http://opensource.org/licenses/MIT](http://opensource.org/licenses/MIT)
