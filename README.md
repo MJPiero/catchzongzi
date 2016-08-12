@@ -8,6 +8,7 @@ CatchZongzi is a simple game on web that was made by createjs.
 
 ##Demo
 demo需要微信授权，请用微信扫描打开。
+
 <img src="http://pan.baidu.com/share/qrcode?w=150&h=150&url=http://v.mob.com/wechat/catchzongzi/index.php">
 
 ##Authors
