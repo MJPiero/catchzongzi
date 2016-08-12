@@ -1,4 +1,4 @@
-#[CatchZongzi](http://git.oschina.net/merlu/catchzongzi)
+#CatchZongzi
 
 这是一个端午节接粽子的小游戏，在移动端运行，微信上读取用户信息并记录游戏结果。游戏结束分数提交显示排行榜。
 
@@ -6,7 +6,10 @@
 
 CatchZongzi is a simple game on web that was made by createjs.
 
-##[Demo](http://v.mob.com/wechat/catchzongzi/index.php)
+##blog跳转
+[【接粽子】小游戏 Made With CreateJs](http://blog.pierrothall.com/2016/06/17/%E3%80%90%E6%8E%A5%E7%B2%BD%E5%AD%90%E3%80%91%E5%B0%8F%E6%B8%B8%E6%88%8F-made-with-createjs/)
+
+##Demo
 
 demo需要微信授权，请用微信扫描打开。
 
