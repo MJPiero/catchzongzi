@@ -20,6 +20,5 @@ demo需要微信授权，请用微信扫描打开。
 - [Email － merlu.majing@gmail.com](http://merlu.majing@gmail.com)
 
 ##Issues
-
 [Report a Problem](https://github.com/MJPiero/catchzongzi/issues)
 
